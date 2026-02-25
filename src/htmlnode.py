@@ -23,7 +23,7 @@ class HTMLNode:
         result = ""
         if isinstance(self.props, dict):
             for k,v in self.props.items():
-                result += f" {k}={v}"
+                result += f' {k}="{v}"'
         return result 
 
     def __repr__(self):
