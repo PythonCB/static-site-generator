@@ -1,0 +1,12 @@
+test_props_to_html (test_htmlnode.TestHtmlNode) ... ok
+test_props_to_html2 (test_htmlnode.TestHtmlNode) ... ok
+test_repr (test_htmlnode.TestHtmlNode) ... ok
+test_leaf_to_html_div (test_htmlnode.TestLeafNode) ... ok
+test_leaf_to_html_p (test_htmlnode.TestLeafNode) ... ok
+test_leaf_to_html_span (test_htmlnode.TestLeafNode) ... ok
+test_eq (test_textnode.TestTextNode) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.000s
+
+OK
